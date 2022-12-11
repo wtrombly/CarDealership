@@ -1,0 +1,10 @@
+C:\Projects\lessons\Interfaces\CarServices.Data\bin\Debug\netcoreapp3.1\CarServices.Data.deps.json
+C:\Projects\lessons\Interfaces\CarServices.Data\bin\Debug\netcoreapp3.1\CarServices.Data.dll
+C:\Projects\lessons\Interfaces\CarServices.Data\bin\Debug\netcoreapp3.1\CarServices.Data.pdb
+C:\Projects\lessons\Interfaces\CarServices.Data\obj\Debug\netcoreapp3.1\CarServices.Data.csproj.AssemblyReference.cache
+C:\Projects\lessons\Interfaces\CarServices.Data\obj\Debug\netcoreapp3.1\CarServices.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\lessons\Interfaces\CarServices.Data\obj\Debug\netcoreapp3.1\CarServices.Data.AssemblyInfoInputs.cache
+C:\Projects\lessons\Interfaces\CarServices.Data\obj\Debug\netcoreapp3.1\CarServices.Data.AssemblyInfo.cs
+C:\Projects\lessons\Interfaces\CarServices.Data\obj\Debug\netcoreapp3.1\CarServices.Data.csproj.CoreCompileInputs.cache
+C:\Projects\lessons\Interfaces\CarServices.Data\obj\Debug\netcoreapp3.1\CarServices.Data.dll
+C:\Projects\lessons\Interfaces\CarServices.Data\obj\Debug\netcoreapp3.1\CarServices.Data.pdb

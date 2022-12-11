@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CarInventory.Services/1.0.0": {
+        "dependencies": {
+          "CarInventory.Core": "1.0.0"
+        },
+        "runtime": {
+          "CarInventory.Services.dll": {}
+        }
+      },
+      "CarInventory.Core/1.0.0": {
+        "runtime": {
+          "CarInventory.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarInventory.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarInventory.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

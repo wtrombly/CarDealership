@@ -1,0 +1,10 @@
+C:\Projects\lessons\Interfaces\CarInventory.Core\bin\Debug\netcoreapp3.1\CarInventory.Core.deps.json
+C:\Projects\lessons\Interfaces\CarInventory.Core\bin\Debug\netcoreapp3.1\CarInventory.Core.dll
+C:\Projects\lessons\Interfaces\CarInventory.Core\bin\Debug\netcoreapp3.1\CarInventory.Core.pdb
+C:\Projects\lessons\Interfaces\CarInventory.Core\obj\Debug\netcoreapp3.1\CarInventory.Core.csproj.AssemblyReference.cache
+C:\Projects\lessons\Interfaces\CarInventory.Core\obj\Debug\netcoreapp3.1\CarInventory.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\lessons\Interfaces\CarInventory.Core\obj\Debug\netcoreapp3.1\CarInventory.Core.AssemblyInfoInputs.cache
+C:\Projects\lessons\Interfaces\CarInventory.Core\obj\Debug\netcoreapp3.1\CarInventory.Core.AssemblyInfo.cs
+C:\Projects\lessons\Interfaces\CarInventory.Core\obj\Debug\netcoreapp3.1\CarInventory.Core.csproj.CoreCompileInputs.cache
+C:\Projects\lessons\Interfaces\CarInventory.Core\obj\Debug\netcoreapp3.1\CarInventory.Core.dll
+C:\Projects\lessons\Interfaces\CarInventory.Core\obj\Debug\netcoreapp3.1\CarInventory.Core.pdb
